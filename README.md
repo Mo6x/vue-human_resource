@@ -32,4 +32,6 @@ see [ yarn add tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefi
 ### Installing Vue-Axios
  yarn add axios vue-axios vue-router vuex
 
+### Installing Vue-Progress-Path
+ yarn add vue-progress-path
 
