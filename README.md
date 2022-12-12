@@ -29,5 +29,7 @@ see [ yarn add tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefi
 ### Installing Vue-fontawesome with Vue.js
  yarn add @fortawesome/fontawesome-svg-core
 
+### Installing Vue-Axios
+ yarn add axios vue-axios vue-router vuex
 
 

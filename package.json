@@ -10,10 +10,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "autoprefixer": "^9",
+    "axios": "^1.2.1",
     "core-js": "^3.8.3",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
